@@ -1,10 +1,11 @@
 # BloodAI Connect 🩸🤖
 > **Connecting Lives, Smartly.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-b71c1c?style=for-the-badge&logo=vercel&logoColor=white)](#) 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-b71c1c?style=for-the-badge&logo=vercel&logoColor=white)](https://bloodai-connect.vercel.app) 
+[![Status](https://img.shields.io/badge/Status-Live%20in%20Production-2e7d32?style=for-the-badge&logo=render&logoColor=white)](https://bloodai-connect.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%7C%20Socket.io%20%7C%20Gemini%20AI-0d2a63?style=for-the-badge)](#)
 
-🌐 **Live Website Link**: [https://bloodai-connect.vercel.app](https://bloodai-connect.vercel.app) *(Deploy hote hi active ho jayega)*
+🌐 **Live Website Link**: [https://bloodai-connect.vercel.app](https://bloodai-connect.vercel.app) 🟢 *Active & Operational*
 
 BloodAI Connect is a modern, full-stack, real-time emergency blood donation and healthcare resource platform. Powered by Google Gemini AI and WebSockets, it bridges the gap between blood donors, hospitals, and emergency patients in real time.
 
